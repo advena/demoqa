@@ -4,7 +4,7 @@ exports.config = {
 
   // Spec patterns are relative to the location of this config.
   specs: [
-    'spec/*_spec.js'
+    'spec/homePage.spec.js'
   ],
 
 
@@ -16,7 +16,7 @@ exports.config = {
 
   // A base URL for your application under test. Calls to protractor.get()
   // with relative paths will be prepended with this.
-  baseUrl: 'http://localhost:8000',
+  baseUrl: 'http://demoqa.com',
 
   jasmineNodeOpts: {
     onComplete: null,
@@ -24,5 +24,7 @@ exports.config = {
     showColors: true,
     includeStackTrace: true,
     defaultTimeoutInterval: 10000
-  }
+  },
+  
+  params: require('./demoqa.properties.json'),
 };

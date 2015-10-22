@@ -1,0 +1,44 @@
+{
+	"url": "http://demoqa.com",
+	"homePage": {
+		"title": "Home",
+		"breadcrumb": "Home",
+		"navigationElements": [
+			{
+				"header": "Unique & Clean",
+				"description": "Aliquam hendrit rutrum iaculis nullam ondimentum maluada velit beum donec sit amet"
+			},
+			{
+				"header": "Customer Support",
+				"description": "Aliquam hendrit rutrum iaculis nullam ondimentum maluada velit beum donec sit amet"
+			},
+			{
+				"header": "Very Flexible",
+				"description": "Aliquam hendrit rutrum iaculis nullam ondimentum maluada velit beum donec sit amet"
+			}
+		],
+		"navigationElementsCount": 3,
+		"tabs": [
+			{
+				"header": "Content 1 Title",
+				"description": "The content could contain anything text page or submit form or any other HTML objects."
+			},
+			{
+				"header": "Content 2 Title",
+				"description": "The content could contain anything text page or submit form or any other HTML objects."
+			},
+			{
+				"header": "Content 3 Title",
+				"description": "The content could contain anything text page or submit form or any other HTML objects."
+			},
+			{
+				"header": "Content 4 Title",
+				"description": "The content could contain anything text page or submit form or any other HTML objects."
+			},
+			{
+				"header": "Content 5 Title",
+				"description": "The content could contain anything text page or submit form or any other HTML objects."
+			}
+		]
+	}
+}

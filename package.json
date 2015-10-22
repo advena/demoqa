@@ -6,5 +6,8 @@
   },
   "scripts": {
     "install": "node ./node_modules/protractor/bin/webdriver-manager update"
+  },
+  "dependencies": {
+  	"pages": "./pages"
   }
 }
