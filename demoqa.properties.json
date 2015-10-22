@@ -40,5 +40,16 @@
 				"description": "The content could contain anything text page or submit form or any other HTML objects."
 			}
 		]
-	}
+	},
+	"registrationPage": {
+		"url": "http://demoqa.com/registration",
+		"emptyError": "* This field is required",
+		"firstLastNameIndex" : 1,
+		"hobbyIndex": 2,
+		"phoneNumberIndex": 6,
+		"usernameIndex": 7,
+		"emailIndex": 8,
+		"passwordIndex": 11,
+		"confirmPasswordIndex": 12
+		}
 }

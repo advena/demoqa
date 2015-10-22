@@ -4,7 +4,8 @@ exports.config = {
 
   // Spec patterns are relative to the location of this config.
   specs: [
-    'spec/homePage.spec.js'
+//    'spec/homePage.spec.js',
+    'spec/registration.spec.js',
   ],
 
 
